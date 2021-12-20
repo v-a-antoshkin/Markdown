@@ -219,7 +219,7 @@ let a = "Программый код"
 
 ## Сноски
 
-Раньше работали. Теперь не работают
+Раньше работали. Теперь не работают.
 
 ```text
 [Текст сноски][Идентификатор сноски]:
@@ -313,32 +313,32 @@ ___
 ```info
 >Это цитата
 с угловой скобкой
-вначале абзаца.
+в начале абзаца.
 ```
 
 >Это цитата
-c угловая скобкой
-вначале абзаца.
+c угловой скобкой
+в начале абзаца.
 
 ```text
->Это та жа цитата
+>Это та же цитата
 >c угловыми скобками
 >на каждой строке.
 ```
 
->Это та жа цитата
+>Это та же цитата
 >c угловыми скобками
 >на каждой строке.
 
 ```text
->Это две цитаты,
+>Первая цитата
 
->указанные в разных абзацах.
+>Вторая цитата
 ```
 
->Это две цитаты,
+>Первая цитата
 
->в разных параграфах.
+>Вторая цитата
 
 ## Вложенные цитаты
 
@@ -404,11 +404,11 @@ c угловая скобкой
 
 <p>
   Это встроенный <b>HTML</b> <br/>
-  < Экранировать не нужно &lt; <br/>
-  > Экранировать не нужно &gt; <br/>
-  ' Экранировать не нужно &#039; <br/>
-  " Экранировать не нужно &quot; <br/>
-  & Экранировать не нужно &amp; <br/>
+  < Знак меньше экранировать не нужно &lt; <br/>
+  > Знак больше экранировать не нужно &gt; <br/>
+  ' Апостроф экранировать не нужно &#039; <br/>
+  " Кавычки экранировать не нужно &quot; <br/>
+  & Амперсанд экранировать не нужно &amp; <br/>
 </p>
 
 ## Видео Youtube
@@ -417,29 +417,29 @@ c угловая скобкой
 
 ```text
 <div style="position:relative;padding-bottom:48%; margin:10px">
-    <iframe src="https://www.youtube.com/embed/bi2xKlZfYos?start=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+    <iframe src="https://www.youtube.com/embed/xaOHsJ5Igys?start=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
     	style="position:absolute;width:100%;height:100%;"></iframe>
 </div>
 ```
 
 <div style="position:relative;padding-bottom:48%; margin:10px">
-    <iframe src="https://www.youtube.com/embed/bi2xKlZfYos?start=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+    <iframe src="https://www.youtube.com/embed/xaOHsJ5Igys?start=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
     	style="position:absolute;width:100%;height:100%;"></iframe>
 </div>
 
 С рамкой и с размерами
 
-```text <a href="https://www.youtube.com/watch?feature=player_embedded&v=bi2xKlZfYos" target="_blank"><img src="https://img.youtube.com/vi/bi2xKlZfYos/0.jpg"
+```text <a href="https://www.youtube.com/watch?feature=player_embedded&v=xaOHsJ5Igys" target="_blank"><img src="https://img.youtube.com/vi/xaOHsJ5Igys/0.jpg"
 alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="240" height="180" border="10" /></a>
 ```
 
-<a href="https://www.youtube.com/watch?feature=player_embedded&v=bi2xKlZfYos" target="_blank"><img src="https://img.youtube.com/vi/bi2xKlZfYos/0.jpg"
+<a href="https://www.youtube.com/watch?feature=player_embedded&v=xaOHsJ5Igys" target="_blank"><img src="https://img.youtube.com/vi/xaOHsJ5Igys/0.jpg"
 alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="240" height="180" border="10" /></a>
 
 Без рамки и без размеров
 
 ```text
-[![ALT-ТЕКСТ ИЗОБРАЖЕНИЯ](https://img.youtube.com/vi/bi2xKlZfYos/0.jpg)](https://www.youtube.com/watch?v=bi2xKlZfYos)
+[![ALT-ТЕКСТ ИЗОБРАЖЕНИЯ](https://img.youtube.com/vi/xaOHsJ5Igys/0.jpg)](https://www.youtube.com/watch?v=bi2xKlZfYos)
 ```
 
-[![ALT-ТЕКСТ ИЗОБРАЖЕНИЯ](https://img.youtube.com/vi/bi2xKlZfYos/0.jpg)](http://www.youtube.com/watch?v=bi2xKlZfYos)
+[![ALT-ТЕКСТ ИЗОБРАЖЕНИЯ](https://img.youtube.com/vi/xaOHsJ5Igys/0.jpg)](http://www.youtube.com/watch?v=bi2xKlZfYos)

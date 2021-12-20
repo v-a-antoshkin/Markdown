@@ -225,16 +225,16 @@ let a = "Программый код";
 ## Изображения
 
 ```text
-![Альтернативный текст] (https://odajs/learn/images/logo/logo-150-x-150.png "Всплывающая подсказка")
+![Альтернативный текст](https://github.com/v-a-antoshkin/Markdown/blob/main/Markdown.png "Всплывающая подсказка")
 ```
 
-![Альтернативный текст] (https://odajs/learn/images/logo/logo-150-x-150.png "Всплывающая подсказка")
+![Альтернативный текст](https://github.com/v-a-antoshkin/Markdown/blob/main/Markdown.png "Всплывающая подсказка")
 
 ```text
-![Локальное изображение] (learn\images\logo\logo-150-x-150.png "Всплывающая подсказка")
+![Локальное изображение](Markdown.png "Всплывающая подсказка")
 ```
 
-![Локальное изображение] (learn\images\logo\logo-150-x-150.png "Всплывающая подсказка")
+![Локальное изображение](Markdown.png "Всплывающая подсказка")
 
 ## Таблицы
 

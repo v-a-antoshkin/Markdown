@@ -432,7 +432,8 @@ c угловой скобкой
 
 С рамкой и с размерами
 
-```text <a href="https://www.youtube.com/watch?feature=player_embedded&v=xaOHsJ5Igys" target="_blank"><img src="https://img.youtube.com/vi/xaOHsJ5Igys/0.jpg"
+```text 
+<a href="https://www.youtube.com/watch?feature=player_embedded&v=xaOHsJ5Igys" target="_blank"><img src="https://img.youtube.com/vi/xaOHsJ5Igys/0.jpg"
 alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="240" height="180" border="10" /></a>
 ```
 

@@ -437,7 +437,7 @@ alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="240" height="180" border="10"
 ```
 
 <a href="https://www.youtube.com/watch?feature=player_embedded&v=xaOHsJ5Igys" target="_blank"><img src="https://img.youtube.com/vi/xaOHsJ5Igys/0.jpg"
-alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="100%" height="180" border="10" /></a>
+alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="240" height="180" border="10" /></a>
 
 Без рамки и без размеров
 
